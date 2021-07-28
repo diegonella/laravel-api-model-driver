@@ -17,7 +17,7 @@ There is also a possibility to configure automatic time zone conversion in case 
 ## Installation
 Install the library using composer:
 ```bash
-composer require nazarii-kretovych/laravel-api-model-driver
+composer require diegonella/laravel-api-model-driver
 ```
 
 ## Configuration
