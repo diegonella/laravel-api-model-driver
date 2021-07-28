@@ -1,6 +1,6 @@
 <?php
 
-namespace NazariiKretovych\LaravelApiModelDriver;
+namespace diegonella\LaravelApiModelDriver;
 
 use RuntimeException;
 
