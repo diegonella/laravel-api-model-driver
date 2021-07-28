@@ -1,6 +1,6 @@
 <?php
 
-namespace NazariiKretovych\LaravelApiModelDriver;
+namespace diegonella\LaravelApiModelDriver;
 
 use Illuminate\Database\Connection as ConnectionBase;
 use Illuminate\Support\ServiceProvider as ServiceProviderBase;
