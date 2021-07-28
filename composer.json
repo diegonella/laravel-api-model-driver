@@ -1,6 +1,6 @@
 {
-    "name": "nazarii-kretovych/laravel-api-model-driver",
-    "description": "API driver for Laravel 7 Eloquent models",
+    "name": "diegonella/laravel-api-model-driver",
+    "description": "API driver for Laravel Eloquent models",
     "keywords": [
         "laravel",
         "database driver",
@@ -11,24 +11,24 @@
     "require": {
         "php": "^7.2",
         "ext-curl": "*",
-        "illuminate/database": "^7.0"
+        "illuminate/database": "~5.7.0"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Nazarii Kretovych",
-            "email": "nazarii.kretovych@gmail.com"
+            "name": "Diego Gonella",
+            "email": "diegonella@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "NazariiKretovych\\LaravelApiModelDriver\\": "src"
+            "diegonella\\LaravelApiModelDriver\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "NazariiKretovych\\LaravelApiModelDriver\\ServiceProvider"
+                "diegonella\\LaravelApiModelDriver\\ServiceProvider"
             ]
         }
     },
